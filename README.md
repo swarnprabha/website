@@ -6,7 +6,7 @@
   ensures that users can effortlessly browse through product categories, perform searches, and filter results to find exactly what they are looking for. The shopping cart 
   functionality allows users to add, update, or remove items, while the secure and efficient checkout process ensures a smooth transaction experience.
 
-You can visit the live website [**here**](https://github.com/swarnprabha/website.git).
+You can visit the live website [**here**](https://swarnprabha.github.io/website/).
 
 **Features**
 
