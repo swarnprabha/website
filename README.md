@@ -10,15 +10,15 @@ You can visit the live website [**here**](https://github.com/swarnprabha/website
 
 **Features**
 
-‣ [Browse Products](https://deepakkr22iitk.github.io/E-Commerce-Website/index.html): Users can view a list of available products.
+‣ [Browse Products](https://github.com/swarnprabha/website/index.html): Users can view a list of available products.
 
-‣ [Shopping Cart](https://deepakkr22iitk.github.io/E-Commerce-Website/shop.html): Add, update, or remove products from the cart.
+‣ [Shopping Cart](https://github.com/swarnprabha/website/shop.html): Add, update, or remove products from the cart.
 
-‣ [Product Details](https://deepakkr22iitk.github.io/E-Commerce-Website/sproduct.html): Detailed view of products including descriptions, ratings, and reviews.
+‣ [Product Details](https://github.com/swarnprabha/website/sproduct.html): Detailed view of products including descriptions, ratings, and reviews.
 
-‣ [Blog Page](https://deepakkr22iitk.github.io/E-Commerce-Website/blog.html): Stay updated with the latest news, trends, and tips in the e-commerce industry through our blog page. The blog features articles on a variety of topics, including product reviews, shopping guides, and industry insights.
+‣ [Blog Page](https://github.com/swarnprabha/website/blog.html): Stay updated with the latest news, trends, and tips in the e-commerce industry through our blog page. The blog features articles on a variety of topics, including product reviews, shopping guides, and industry insights.
 
-‣ [Checkout](https://deepakkr22iitk.github.io/E-Commerce-Website/cart.html): Proceed to a secure checkout process.
+‣ [Checkout](https://github.com/swarnprabha/website/cart.html): Proceed to a secure checkout process.
 
 
 **Technologies Used**
